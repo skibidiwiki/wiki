@@ -50,7 +50,59 @@ Defaultuser.webp|Превью №1 (часть 1)
 |characters=
 * Здесь кто-то другой
 |}}
+```
 
+## Чистый пример
+```mediawiki
+{{Infobox/Episode
+|title=skibidi toilet
+|image=
+<gallery>
+|
+|
+|
+|
+Defaultuser.webp|
+Defaultuser.webp|
+Defaultuser.webp|
+</gallery>
+|FullScreen=
+[https://www.youtube.com/watch?v=dQw4w9WgXcQ skibidi toilet 1 (part 1)]
+|Shorts=
+* [https://www.youtube.com/watch?v=dQw4w9WgXcQ Part 1]
+* [https://www.youtube.com/watch?v=dQw4w9WgXcQ Part 2]
+|FullEpisode=
+[https://www.youtube.com/watch?v=dQw4w9WgXcQ skidibi toilet 1]
+|episode=1
+|part=2
+|season=[[Сезон 1|1]]
+|data=1 января 1970 10:10 (UTC +3, MSK)
+|duration=0:01
+|location=
+* [[Собор]]
+* [[Нью-Йорк]] (с 0:15)
+|prev=[[Skibidi toilet 1]]
+|next=[[Skibidi toilet 2]]
+|skibidi=
+* [[Летающий Скибиди Туалет]]
+* [[Маленький Скибиди Туалет]]
+* Другие в порядке их появления в данном эпизоде!
+|astro=
+* [[Астро Туалет НЛО]]
+|cameraman=
+* [[КамераМен 1055]]
+* [[Влюблённый КамераМен]]
+|speakerman=
+* [[Большой СпикерМен]]
+* [[Красный СпикерМен]]
+|tvman=
+* [[Большой ТВМен]]
+* [[Титан ТВМен]]
+|people=
+* [[Секретный агент]]
+|characters=
+* Здесь кто-то другой
+|}}
 ```
 
 #### Данный инфобокс используется для эпизодов. НЕ нужно добавлять в них категории, так как это уже АВТОМАТИЧЕСКИ делает шаблон!
