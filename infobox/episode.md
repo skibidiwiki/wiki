@@ -6,25 +6,28 @@
 |image=
 <gallery>
 Unknown.gif|Главное событие эпизода
-Defaultuser.webp|Превью №2
-Defaultuser.webp|Превью №1
+Defaultuser.webp|Превью №2 (часть 1)
+Defaultuser.webp|Превью №2 (часть 2)
+Defaultuser.webp|Превью №1 (часть 1)
+Defaultuser.webp|Превью №1 (часть 2)
 </gallery>
 |FullScreen=
-[https://www.youtube.com/watch?v=dQw4w9WgXcQ Skibidi toilet 1 (part 1)]
+[https://www.youtube.com/watch?v=dQw4w9WgXcQ skibidi toilet 1 (part 1)]
 |Shorts=
 * [https://www.youtube.com/watch?v=dQw4w9WgXcQ Part 1]
 * [https://www.youtube.com/watch?v=dQw4w9WgXcQ Part 2]
 |FullEpisode=
-[https://www.youtube.com/watch?v=dQw4w9WgXcQ Skidibi toilet 1]
-|episode=1 (часть 1)
+[https://www.youtube.com/watch?v=dQw4w9WgXcQ skidibi toilet 1]
+|episode=1
+|part=2
 |season=[[Сезон 1|1]]
 |data=1 января 1970 10:10 (UTC +3, MSK)
 |duration=0:01
 |location=
 * [[Собор]]
 * [[Нью-Йорк]] (с 0:15)
-|prev=[[Эпизод 1]]
-|next=[[Эпизод 2]]
+|prev=[[Skibidi toilet 1]]
+|next=[[Skibidi toilet 2]]
 |skibidi=
 * [[Летающий Скибиди Туалет]]
 * [[Маленький Скибиди Туалет]]
