@@ -2,14 +2,16 @@
 ## Пример заполнения
 ```mediawiki
 {{Infobox/Episode
-|title=Имя статьи
+|title=skibidi toilet 0
 |image=
 <gallery>
-Unknown.gif|Главное событие эпизода
-Defaultuser.webp|Превью №2 (часть 1)
+Unknown.gif|Главное событие
+Defaultuser.webp|Превью №3 (часть 2)
+Defaultuser.webp|Превью №3 (часть 1)
 Defaultuser.webp|Превью №2 (часть 2)
-Defaultuser.webp|Превью №1 (часть 1)
 Defaultuser.webp|Превью №1 (часть 2)
+Defaultuser.webp|Превью №2 (часть 1)
+Defaultuser.webp|Превью №1 (часть 1)
 </gallery>
 |FullScreen=
 [https://www.youtube.com/watch?v=dQw4w9WgXcQ skibidi toilet 1 (part 1)]
@@ -48,6 +50,7 @@ Defaultuser.webp|Превью №1 (часть 2)
 |characters=
 * Здесь кто-то другой
 |}}
+
 ```
 
 #### Данный инфобокс используется для эпизодов. НЕ нужно добавлять в них категории, так как это уже АВТОМАТИЧЕСКИ делает шаблон!
