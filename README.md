@@ -16,4 +16,4 @@
 ![image](https://github.com/skibidiwiki/wiki/assets/87380272/2e62fef9-7bf0-40be-bca0-3502a77fa6c0)
 
 ### 2.3 Если канонического названия нет, выбирается наиболее популярное и часто встречаемое. Их возможно переводить на русский язык.
-![image](https://github.com/skibidiwiki/wiki/assets/87380272/78eafe3f-a918-4f91-854b-13fe85e0687e)
+![image](https://github.com/skibidiwiki/wiki/assets/87380272/f1bfc3d4-e811-4d4d-8fdd-d3e2e2f049a9)
