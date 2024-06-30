@@ -13,7 +13,7 @@
 ![image](https://github.com/skibidiwiki/wiki/assets/87380272/94f1b00b-00f4-48e5-ac66-bb2ade699d48)
 
 ### 2.2 Каноничные названия **НЕ** переводятся, но пишутся на русском языке (транслитом)
-![image](https://github.com/skibidiwiki/wiki/assets/87380272/d0aa0d40-ab9f-496d-a4f4-60ffd03f8eb1)
+![image](https://github.com/skibidiwiki/wiki/assets/87380272/2e62fef9-7bf0-40be-bca0-3502a77fa6c0)
 
 ### 2.3 Если канонического названия нет, выбирается наиболее популярное и часто встречаемое. Их возможно переводить на русский язык.
 ![image](https://github.com/skibidiwiki/wiki/assets/87380272/78eafe3f-a918-4f91-854b-13fe85e0687e)
