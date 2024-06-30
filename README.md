@@ -9,4 +9,4 @@
 
 ### 1.3 Название раздела истории / появлений / хронологии персонажа - "История". <br> Он **НЕ** оформляется в форме списка, история описывается абзацным текстом
 
-![image](https://github.com/skibidiwiki/wiki/assets/87380272/e90fbe6e-067e-4d1c-a6a9-0cf5d062a980)
+![image](https://github.com/skibidiwiki/wiki/assets/87380272/d20722bf-ac4b-472e-8819-7a5a1a5f7fc5)
