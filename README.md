@@ -13,4 +13,4 @@
 ![image](https://github.com/skibidiwiki/wiki/assets/87380272/94f1b00b-00f4-48e5-ac66-bb2ade699d48)
 
 ### 2.2 Каноничные названия **НЕ** переводятся, но пишутся на русском языке (транслитом)
-![image](https://github.com/skibidiwiki/wiki/assets/87380272/7f567376-4efd-498a-afb1-3681a4e5a445)
+![image](https://github.com/skibidiwiki/wiki/assets/87380272/d0aa0d40-ab9f-496d-a4f4-60ffd03f8eb1)
