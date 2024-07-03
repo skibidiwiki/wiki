@@ -1,4 +1,4 @@
-## 📃 Общие правила | [👤 Названия статей](https://github.com/skibidiwiki/wiki/blob/main/rules/2title.md)
+## [❗ Общие принципы](https://github.com/skibidiwiki/wiki/blob/main/rules/README.md) | 📃 Общие правила | [👤 Названия статей](https://github.com/skibidiwiki/wiki/blob/main/rules/2title.md)
 ### 1.1 Основной **абзац** требует оформлять в **ОБЫЧНОМ** стиле (не ЗАГОЛОВОЧНОМ, КОДОВОМ и так далее)
 ![image](https://github.com/skibidiwiki/wiki/assets/87380272/d62e7f11-7660-4117-b031-85a7bf8305c9)
 
