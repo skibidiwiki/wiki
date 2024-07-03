@@ -41,7 +41,7 @@
 ![image](https://github.com/skibidiwiki/wiki/assets/87380272/5acb7c36-3a78-4cd9-ae92-46da3e5d90d2)
 
 ### 2.3 Если канонического названия нет, выбирается наиболее популярное и часто встречаемое. Их возможно переводить на русский язык.
-![image](https://github.com/skibidiwiki/wiki/assets/87380272/f1bfc3d4-e811-4d4d-8fdd-d3e2e2f049a9)
+![image](https://github.com/skibidiwiki/wiki/assets/87380272/f30e27e5-174d-4008-8b40-593db2ec761e)
 
 ### 2.4 Название не должно быть слишком длинным (не более 30+ символов)
 ![image](https://github.com/skibidiwiki/wiki/assets/87380272/e6e7f830-e221-431b-86b0-97226000b391)
