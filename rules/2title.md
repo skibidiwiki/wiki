@@ -1,4 +1,4 @@
-## ## [❗ Общие принципы](https://github.com/skibidiwiki/wiki/blob/main/rules/README.md) | [📃 Общие правила](https://github.com/skibidiwiki/wiki/blob/main/rules/1general.md) | 👤 Названия статей
+## [❗ Общие принципы](https://github.com/skibidiwiki/wiki/blob/main/rules/README.md) | [📃 Общие правила](https://github.com/skibidiwiki/wiki/blob/main/rules/1general.md) | 👤 Названия статей
 ### 2.1 Недопустимы фанатские названия. Название не выбираются, а пишутся исходя из канона автора
 ![image](https://github.com/skibidiwiki/wiki/assets/87380272/d035592f-d5e6-4413-976a-5a76e258e1d0)
 
