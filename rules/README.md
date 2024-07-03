@@ -44,4 +44,4 @@
 ![image](https://github.com/skibidiwiki/wiki/assets/87380272/f30e27e5-174d-4008-8b40-593db2ec761e)
 
 ### 2.4 Название не должно быть слишком длинным (не более 30+ символов)
-![image](https://github.com/skibidiwiki/wiki/assets/87380272/e6e7f830-e221-431b-86b0-97226000b391)
+![image](https://github.com/skibidiwiki/wiki/assets/87380272/fbbf7a11-be06-4868-935b-2edb1101a538)
