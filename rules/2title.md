@@ -12,3 +12,4 @@
 ![image](https://github.com/skibidiwiki/wiki/assets/87380272/1866f293-46a2-4b35-8b5f-e401f91e8fe1)
 
 ### 2.5 Особенности различных приставок и суффиксов
+![image](https://github.com/skibidiwiki/wiki/assets/87380272/ca943d86-ab66-416f-8bc0-1f28ff49a6d5)
