@@ -51,66 +51,67 @@
 			</data>
   </group>
   <group layout="horizontal">
-    <data source="fullpart"> <label>Full частей</label>
-    <default>1</default>
-    </data>
-    <data source="shortspart"> <label>Shorts частей</label>
-    <default>Отсутствуют</default>
-    </data>
+	  <data source="fullpart"> <label>Full частей</label>
+		  <default>1</default>
+	  </data>
+	  <data source="shortspart"> <label>Shorts частей</label>
+		  <default>Отсутствуют</default>
+	  </data>
   </group>
- <group collapse="open">
-  <header source="info">Характеристики эпизода</header>
-  <group layout="horizontal">
-  <data source="data"> <label>[[Файл:Date.png|11px]]⠀Дата выхода</label>
-  <default> </default>
-  </data>
-  </group>
-  <group layout="horizontal">
-  <data source="duration"> <label>[[Файл:Duration.png|11px]]⠀Продолжительность</label>
-  <default> </default>
-  </data>
-  </group>
-  <group layout="horizontal">
-  <data source="location"> <label>[[Файл:Location.png|10px]]⠀Локации</label>
-  <default> </default>
-  </data>
-  </group>
- </group>
-  <group layout="horizontal">
-    <data source="prev">
-    	<label>⬅ Предыдущий</label> 
-    	<default>[[skibidi toilet {{#expr: {{{episode}}} - 1 }}]]</default>
-    </data> 
-    <data source="next">
-    	<label>Следующий ➡</label>
-    	<default>{{#ifexist: Skibidi toilet {{#expr: {{{episode}}} + 1 }} | [[skibidi toilet {{#expr: {{{episode}}} + 1 }}]] | skibidi toilet {{#expr: {{{episode}}} + 1 }} }}</default>
-    </data>
-  </group>
-  </group>
-  <group collapse="open">
-  <header source="header1">Персонажи</header>
-  <group layout="horizontal" row-items="1">
-    <data source="skibidi"> <label><font color="#e3ae00">[[Файл:Icon4.png|17px]]⠀[[Скибиди Туалеты]]<font></label>
-    <default> </default>
-    </data>
-    <data source="astro"> <label><font color="#e3ae00">[[Астро Туалеты]]<font></label>
-    </data>
-    <data source="cameraman"> <label><font color="#68a4ed">[[Файл:Icon1.png|17px]]⠀[[КамераМен|КамераМены]]<font></label>
-    <default> </default>
-    </data>
-    <data source="speakerman">
-    	<label><font color="red">[[Файл:Icon2.png|17px]]⠀[[СпикерМен|СпикерМены]]<font></label>
-    </data>
-    <data source="tvman"> <label><font color="#8c5fff">[[Файл:Icon3.png|17px]]⠀[[ТВМен|ТВМены]]<font></label>
-    <default> </default>
-    </data>
-    <data source="people"> <label><font color="#1df126">[[Люди]]<font></label>
-    </data>
-    <data source="characters"> <label><font color="white">Другие персонажи<font></label>
-    </data>
-  </group>
- </group>
-</infobox>__NOTOC__[[Категория:Эпизоды]]{{#if: {{{episode|}}} | {{#ifeq: {{{episode}}} | 1 | [[en:skibidi toilet]] | [[en:skibidi toilet {{{episode}}}]] }} }}{{#if: {{{episode|}}} | {{#ifeq: {{{episode}}} | 1 |  {{DISPLAYTITLE:skibidi toilet}} | {{DISPLAYTITLE:skibidi toilet {{{episode}}}}} }} }}
+		<group collapse="open">
+			<header source="info">Характеристики эпизода</header>
+			<group layout="horizontal">
+				<data source="data"> <label>[[Файл:Date.png|11px]]⠀Дата выхода</label>
+					<default> </default>
+				</data>
+			</group>
+			<group layout="horizontal">
+				<data source="duration"> <label>[[Файл:Duration.png|11px]]⠀Продолжительность</label>
+					<default> </default>
+				</data>
+			</group>
+			<group layout="horizontal">
+				<data source="location"> <label>[[Файл:Location.png|10px]]⠀Локации</label>
+					<default> </default>
+				</data>
+			</group>
+		</group>
+		<group layout="horizontal">
+			<data source="prev">
+				<label>⬅ Предыдущий</label> 
+				<default>[[skibidi toilet {{#expr: {{{episode}}} - 1 }}]]</default>
+			</data> 
+			<data source="next">
+				<label>Следующий ➡</label>
+				<default>{{#ifexist: Skibidi toilet {{#expr: {{{episode}}} + 1 }} | [[skibidi toilet {{#expr: {{{episode}}} + 1 }}]] | skibidi toilet {{#expr: {{{episode}}} + 1 }} }}</default>
+			</data>
+		</group>
+	</group>
+	<group collapse="open">
+		<header source="header1">Персонажи</header>
+		<group layout="horizontal" row-items="1">
+			<data source="skibidi"> <label><font color="#e3ae00">[[Файл:Icon4.png|17px]]⠀[[Скибиди Туалеты]]<font></label>
+				<default> </default>
+			</data>
+			<data source="astro"> <label><font color="#e3ae00">[[Астро Туалеты]]<font></label>
+			</data>
+			<data source="cameraman"> <label><font color="#68a4ed">[[Файл:Icon1.png|17px]]⠀[[КамераМен|КамераМены]]<font></label>
+				<default> </default>
+			</data>
+			<data source="speakerman">
+				<label><font color="red">[[Файл:Icon2.png|17px]]⠀[[СпикерМен|СпикерМены]]<font></label>
+			</data>
+			<data source="tvman"> <label><font color="#8c5fff">[[Файл:Icon3.png|17px]]⠀[[ТВМен|ТВМены]]<font></label>
+				<default> </default>
+			</data>
+			<data source="people"> <label><font color="#1df126">[[Люди]]<font></label>
+			</data>
+			<data source="characters"> <label><font color="white">Другие персонажи<font></label>
+			</data>
+		</group>
+	</group>
+</infobox>
+__NOTOC__[[Категория:Эпизоды]]{{#if: {{{episode|}}} | {{#ifeq: {{{episode}}} | 1 | [[en:skibidi toilet]] | [[en:skibidi toilet {{{episode}}}]] }} }}{{#if: {{{episode|}}} | {{#ifeq: {{{episode}}} | 1 |  {{DISPLAYTITLE:skibidi toilet}} | {{DISPLAYTITLE:skibidi toilet {{{episode}}}}} }} }}
 </includeonly>
 <noinclude>
 <big>'''Пример заполнения инфобокса смотрите [[Project:Design/Episode|здесь]]'''</big>
