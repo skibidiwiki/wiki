@@ -10,7 +10,7 @@
 			| 3 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]<br>[{{{Full3}}} skibidi toilet {{{episode}}} (part 3)]
 			| 4 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]<br>[{{{Full3}}} skibidi toilet {{{episode}}} (part 3)]<br>[{{{Full4}}} skibidi toilet {{{episode}}} (part 4)]
 			| 5 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]<br>[{{{Full3}}} skibidi toilet {{{episode}}} (part 3)]<br>[{{{Full4}}} skibidi toilet {{{episode}}} (part 4)]<br>[{{{Full5}}} skibidi toilet {{{episode}}} (part 5)]
-			| #default = [[Участник:JestXFots/LogError|⠀]]Скоро здесь будет текст[[Участник:JestXFots/LogError|⠀]]}}</default> <! Если нет fullpart то пишем ошибку >
+			| #default = [[Участник:JestXFots/LogError|⠀]]Скоро здесь будет текст[[Участник:JestXFots/LogError|⠀]]}}</default> <!---- Если нет fullpart то пишем ошибку ----->
 		</data>
 	</group>
 	<group layout="horizontal">
