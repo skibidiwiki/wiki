@@ -1,0 +1,91 @@
+<includeonly>== Галерея ==
+  <div class="wds-tabber">
+    <div class="wds-tabs__wrapper">
+        <ul class="wds-tabs">
+            <li class="wds-tabs__tab wds-is-current"><span class="wds-tabs__tab-label">Спойлеры</span></li>
+            <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Эпизод</span></li>
+            <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Дополнительная сцена</span></li>
+            {{#if: {{{fake|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Фейки</span></li>}}
+            <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Другое</span></li>
+        </ul>
+    </div>
+      <div class="wds-tab__content wds-is-current">
+    <div class="wds-tabber">
+      <div class="wds-tabs__wrapper">
+        <ul class="wds-tabs">
+        {{#if: {{{spoiler2|}}} |
+        {{#if: {{{spoilerfull|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Фулл</span></li>}}
+        <li class="wds-tabs__tab wds-is-current"><span class="wds-tabs__tab-label">Часть 1</span></li>
+        {{#if: {{{spoiler2|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Часть 2</span></li>}}
+        {{#if: {{{spoiler3|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Часть 3</span></li>}}
+        {{#if: {{{spoiler4|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Часть 4</span></li>}}
+        {{#if: {{{spoiler5|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Часть 5</span></li>}}
+        {{#if: {{{spoiler6|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Часть 6</span></li>}}
+        |}}
+        </ul>
+      </div>
+      <div class="wds-tab__content">{{{spoilerfull|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+      <div class="wds-tab__content wds-is-current">{{{spoiler1|{{Notice/ArticleRecently}}}}}</div>
+      <div class="wds-tab__content">{{{spoiler2|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+      <div class="wds-tab__content">{{{spoiler3|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+      <div class="wds-tab__content">{{{spoiler4|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+      <div class="wds-tab__content">{{{spoiler5|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+      <div class="wds-tab__content">{{{spoiler6|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+    </div>
+  </div>
+
+  <div class="wds-tab__content">
+    <div class="wds-tabber">
+      <div class="wds-tabs__wrapper">
+        <ul class="wds-tabs">
+        {{#if: {{{episode2|}}} |
+        {{#if: {{{episodefull|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Фулл</span></li>}}
+        <li class="wds-tabs__tab wds-is-current"><span class="wds-tabs__tab-label">Часть 1</span></li>
+        {{#if: {{{episode2|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Часть 2</span></li>}}
+        {{#if: {{{episode3|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Часть 3</span></li>}}
+        {{#if: {{{episode4|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Часть 4</span></li>}}
+        {{#if: {{{episode5|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Часть 5</span></li>}}
+        {{#if: {{{episode6|}}} | <li class="wds-tabs__tab"><span class="wds-tabs__tab-label">Часть 6</span></li>}}
+        |}}
+        </ul>
+      </div>
+      
+      <div class="wds-tab__content">{{{episodefull|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+      <div class="wds-tab__content wds-is-current">{{{episode1|{{Notice/ArticleRecently}}}}}</div>
+      <div class="wds-tab__content">{{{episode2|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+      <div class="wds-tab__content">{{{episode3|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+      <div class="wds-tab__content">{{{episode4|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+      <div class="wds-tab__content">{{{episode5|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+      <div class="wds-tab__content">{{{episode6|ВЫ ГДЕ-ТО ПРОПУСТИЛИ ЧАСТЬ И НЕПРАВИЛЬНО СДЕЛАЛИ ГАЛЕРЕЮ!}}}</div>
+    </div>
+  </div>
+
+  <div class="wds-tab__content">{{{full|{{Notice/ArticleRecently}}}}}</div>
+  {{#if: {{{fake|}}} | <div class="wds-tab__content">{{{fake}}}</div>}}
+  <div class="wds-tab__content">{{{other|{{Notice/ArticleRecently}}}}}</div>
+</div>
+</includeonly>
+<noinclude>
+{{Page/Gallery
+|spoiler1=
+<gallery captionalign="center">
+Unknown.gif|Часть 2
+</gallery>
+|spoiler2=
+<gallery captionalign="center">
+Unknown.gif|Часть 2
+</gallery>
+|spoiler3=
+<gallery captionalign="center">
+Unknown.gif|Часть 3
+</gallery>
+|episode1=
+<gallery captionalign="center">
+Unknown.gif|Эпизод 1
+</gallery>
+|episode2=
+<gallery captionalign="center">
+Unknown.gif|Эпизод 2
+</gallery>
+|}}
+</noinclude>
