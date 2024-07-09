@@ -1,56 +1,54 @@
 <includeonly><infobox>
 	<title source="title"> <default>skibidi toilet {{{episode}}}</default> </title>
-  <image source="image"><default>Cameraman symbol-mark.webp</default></image>
-  <group layout="horizontal">
-  <data source="FullScreen">
-	<label>[[Файл:Youtube.png|13px]]⠀FullScreen версия</label>
-  <default>{{#switch: {{{fullpart}}}
-  | 1 = [{{{Full1}}} skibidi toilet {{{episode}}}]
-  | 2 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]
-  | 3 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]<br>[{{{Full3}}} skibidi toilet {{{episode}}} (part 3)]
-  | 4 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]<br>[{{{Full3}}} skibidi toilet {{{episode}}} (part 3)]<br>[{{{Full4}}} skibidi toilet {{{episode}}} (part 4)]
-  | 5 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]<br>[{{{Full3}}} skibidi toilet {{{episode}}} (part 3)]<br>[{{{Full4}}} skibidi toilet {{{episode}}} (part 4)]<br>[{{{Full5}}} skibidi toilet {{{episode}}} (part 5)]
-  | #default = [[Участник:JestXFots/LogError|⠀]]Скоро здесь будет текст[[Участник:JestXFots/LogError|⠀]]}}</default>
-  </data>
-  </group>
-
-  <group layout="horizontal">
-  <data source="Shorts">
-	<label>[[Файл:Shorts.png|11px]]⠀Shorts</label>
-  <default>{{#switch: {{{shortspart}}}
-  | 1 = * [{{{Shorts1}}} Part 1]
-  | 2 = * [{{{Shorts1}}} Part 1]
-* [{{{Shorts2}}} Part 2]
-  | 3 = * [{{{Shorts1}}} Part 1]
-* [{{{Shorts2}}} Part 2]
-* [{{{Shorts3}}} Part 3]
-  | 4 = * [{{{Shorts1}}} Part 1]
-* [{{{Shorts2}}} Part 2]
-* [{{{Shorts3}}} Part 3]
-* [{{{Shorts4}}} Part 4]
-  | 5 = * [{{{Shorts1}}} Part 1]
-* [{{{Shorts2}}} Part 2]
-* [{{{Shorts3}}} Part 3]
-* [{{{Shorts4}}} Part 4]
-* [{{{Shorts5}}} Part 5]
-  | #default = [[Участник:JestXFots/LogError|⠀]]Отсутствуют (или ещё не добавлены)[[Участник:JestXFots/LogError|⠀]]}}</default>
-  </data>
-  </group>
-  
-  <group layout="horizontal">
-  <data source="FullEpisode">
-  	<label>[[Файл:Youtube.png|13px]]⠀Полный эпизод</label>
-  	<format>[{{{FullEpisode}}} skibidi toilet {{{episode}}} (full episode)]</format>
-  </data>
-  </group>
-  <group>
-  <header source="info">Информация о эпизоде</header>
-  <group layout="horizontal">
-    <data source="episode"> <label>Эпизод</label> </data>
-    <data source="season">
-    	<label>[[Файл:Season.png|13px]]⠀Сезон</label>
-    	<format>[[Сезон {{{season}}}|{{{season}}}]]</format>
-    </data>
+	<image source="image"><default>Cameraman symbol-mark.webp</default></image>
+	<group layout="horizontal">
+		<data source="FullScreen">
+			<label>[[Файл:Youtube.png|13px]]⠀FullScreen версия</label>
+			<default>{{#switch: {{{fullpart}}}
+			| 1 = [{{{Full1}}} skibidi toilet {{{episode}}}]
+			| 2 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]
+			| 3 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]<br>[{{{Full3}}} skibidi toilet {{{episode}}} (part 3)]
+			| 4 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]<br>[{{{Full3}}} skibidi toilet {{{episode}}} (part 3)]<br>[{{{Full4}}} skibidi toilet {{{episode}}} (part 4)]
+			| 5 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]<br>[{{{Full3}}} skibidi toilet {{{episode}}} (part 3)]<br>[{{{Full4}}} skibidi toilet {{{episode}}} (part 4)]<br>[{{{Full5}}} skibidi toilet {{{episode}}} (part 5)]
+			| #default = [[Участник:JestXFots/LogError|⠀]]Скоро здесь будет текст[[Участник:JestXFots/LogError|⠀]]}}</default>
+		</data>
+	</group>
+	<group layout="horizontal">
+		<data source="Shorts">
+			<label>[[Файл:Shorts.png|11px]]⠀Shorts</label>
+			<default>{{#switch: {{{shortspart}}}
+			| 1 = * [{{{Shorts1}}} Part 1]
+			| 2 = * [{{{Shorts1}}} Part 1]
+			* [{{{Shorts2}}} Part 2]
+			| 3 = * [{{{Shorts1}}} Part 1]
+			* [{{{Shorts2}}} Part 2]
+			* [{{{Shorts3}}} Part 3]
+			| 4 = * [{{{Shorts1}}} Part 1]
+			* [{{{Shorts2}}} Part 2]
+			* [{{{Shorts3}}} Part 3]
+			* [{{{Shorts4}}} Part 4]
+			| 5 = * [{{{Shorts1}}} Part 1]
+			* [{{{Shorts2}}} Part 2]
+			* [{{{Shorts3}}} Part 3]
+			* [{{{Shorts4}}} Part 4]
+			* [{{{Shorts5}}} Part 5]
+			| #default = [[Участник:JestXFots/LogError|⠀]]Отсутствуют (или ещё не добавлены)[[Участник:JestXFots/LogError|⠀]]}}</default>
+		</data>
+	</group>
+	<group layout="horizontal">
+		<data source="FullEpisode">
+			<label>[[Файл:Youtube.png|13px]]⠀Полный эпизод</label>
+			<format>[{{{FullEpisode}}} skibidi toilet {{{episode}}} (full episode)]</format>
+		</data>
+	</group>
+	<group>
+		<header source="info">Информация о эпизоде</header>
+		<group layout="horizontal">
+			<data source="episode"> <label>Эпизод</label> </data>
+			<data source="season">
+				<label>[[Файл:Season.png|13px]]⠀Сезон</label>
+				<format>[[Сезон {{{season}}}|{{{season}}}]]</format>
+			</data>
   </group>
   <group layout="horizontal">
     <data source="fullpart"> <label>Full частей</label>
