@@ -1,6 +1,8 @@
 <includeonly><infobox>
 	<title source="title"> <default>skibidi toilet {{{episode}}}</default> </title>
-	<image source="image"><default>Cameraman symbol-mark.webp</default></image>
+	<image source="image">
+		<default>Cameraman symbol-mark.webp</default>
+	</image>
 	<group layout="horizontal">
 		<data source="FullScreen">
 			<label>[[Файл:Youtube.png|13px]]⠀FullScreen версия</label>
