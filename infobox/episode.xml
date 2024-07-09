@@ -1,6 +1,5 @@
-<includeonly>
-<infobox>
-  <title source="title"> <default>skibidi toilet {{{episode}}}</default> </title>
+<includeonly><infobox>
+	<title source="title"> <default>skibidi toilet {{{episode}}}</default> </title>
   <image source="image"><default>Cameraman symbol-mark.webp</default></image>
   <group layout="horizontal">
   <data source="FullScreen">
