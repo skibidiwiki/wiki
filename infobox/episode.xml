@@ -4,7 +4,7 @@
 	<group layout="horizontal">
 		<data source="FullScreen">
 			<label>[[Файл:Youtube.png|13px]]⠀FullScreen версия</label>
-			<default>{{#switch: {{{fullpart}}} #123
+			<default>{{#switch: {{{fullpart}}} <!--123
 			| 1 = [{{{Full1}}} skibidi toilet {{{episode}}}]
 			| 2 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]
 			| 3 = [{{{Full1}}} skibidi toilet {{{episode}}} (part 1)]<br>[{{{Full2}}} skibidi toilet {{{episode}}} (part 2)]<br>[{{{Full3}}} skibidi toilet {{{episode}}} (part 3)]
