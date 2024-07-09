@@ -1,7 +1,14 @@
 <includeonly><infobox>
 	<title source="title"> <default>skibidi toilet {{{episode}}}</default> </title>
-	<image source="image">
-		<default>Cameraman symbol-mark.webp</default>
+	<image source="image"><default><gallery>
+			{{#if: {{{imageMain|}}}|{{{imageMain}}}|{{{imageText}}}}}
+			{{#if: {{{part2_3|}}}|{{{part2_3}}}|Превью №3 (часть 2)}}
+			{{#if: {{{part2_2|}}}|{{{part2_2}}}|Превью №2 (часть 2)}}
+			{{#if: {{{part2_1|}}}|{{{part2_1}}}|Превью №1 (часть 2)}}
+			{{#if: {{{part1_3|}}}|{{{part1_3}}}|Превью №3 (часть 1)}}
+			{{#if: {{{part1_2|}}}|{{{part1_2}}}|Превью №2 (часть 1)}}
+			{{#if: {{{part1_1|}}}|{{{part1_1}}}|Превью №1 (часть 1)}}
+		</gallery></default>
 	</image>
 	<group layout="horizontal">
 		<data source="FullScreen">
