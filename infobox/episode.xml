@@ -1,6 +1,6 @@
 <includeonly><infobox>
 	<title source="title"> <default>skibidi toilet {{{episode}}}</default> </title>
-	<image source="image"></image>
+	<image source="image"><gallery></gallery></image>
 	<group layout="horizontal">
 		<data source="FullScreen">
 			<label>[[Файл:Youtube.png|13px]]⠀FullScreen версия</label>
