@@ -51,7 +51,7 @@ a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"]
 a[href$=":Fnafer_83"], a[href$="/Fnafer_83"],
 a[href$=":Fnafer%2083"], a[href$="/Fnafer%2083"],
 
-a[href$="DeVanYa"], a[href$="/DeVanYa"]
+a[href$="DeCabaddon"], a[href$="/DeCabaddon"]
 {
     font-weight:bold;
     color: #07fd30 !important;
@@ -64,7 +64,7 @@ a[href$="DeVanYa"], a[href$="/DeVanYa"]
 }
 
 a[href$=":Fnafer%2083"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":DeVanYa"] ~ .EntityHeader_middot__39-65:after
+a[href$=":DeCabaddon"] ~ .EntityHeader_middot__39-65:after
 {
     content: "⭐ Администратор";
     padding: 3px;
