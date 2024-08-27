@@ -81,7 +81,9 @@ a[href$=":DeVanYa"] ~ .EntityHeader_middot__39-65:after
 a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
 
 a[href$=":Do_You_Understando%3F"],a[href$="/Do_You_Understando%3F"],
-a[href$=":Do%20You%20Understando%3F"],a[href$="/Do%20You%20Understando%3F"]
+a[href$=":Do%20You%20Understando%3F"],a[href$="/Do%20You%20Understando%3F"],
+
+a[href$=":Vootez"], a[href$="/Vootez"],
 {
     font-weight:bold;
     color: #7f54ff !important;
@@ -93,7 +95,8 @@ a[href$=":Do%20You%20Understando%3F"],a[href$="/Do%20You%20Understando%3F"]
 }
 
 a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
+a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":Vootez"] ~ .EntityHeader_middot__39-65:after
 {
     content: "🔨 Модератор контента";
     padding: 3px;
@@ -109,9 +112,9 @@ a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
 /****************************************** Откатчики ****************************************/
 a[href$=":InvaderZimfy"], a[href$="/InvaderZimfy"],
 
-a[href$=":Vootez"], a[href$="/Vootez"],
+a[href$=":QLore2024"], a[href$="/QLore2024"],
 
-a[href$=":QLore2024"], a[href$="/QLore2024"]
+a[href$=":Sdfadasdasd"], a[href$="/Sdfadasdasd"]
 {
     font-weight:bold;
     color: #cd3c48 !important;
@@ -123,8 +126,8 @@ a[href$=":QLore2024"], a[href$="/QLore2024"]
 }
 
 a[href$=":InvaderZimfy"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":Vootez"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":QLore2024"] ~ .EntityHeader_middot__39-65:after
+a[href$=":QLore2024"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":Sdfadasdasd"] ~ .EntityHeader_middot__39-65:after
 {
     content: "🧹 Откатчик";
     padding: 3px;
