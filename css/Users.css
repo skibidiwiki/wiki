@@ -46,8 +46,8 @@ a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"]
 }
 
 /******************************* УЧАСТНИКИ БОЛЬШЕ 2000 ПРАВОК ***************************/
-a[href$=":Fnafer_83"], a[href$="/Fnafer_83"]
-a[href$=":Fnafer%2083"], a[href$="/Fnafer%2083"],
+a[href$=":Fnafer_83"], a[href$="/Fnafer_83"],
+a[href$=":Fnafer%2083"], a[href$="/Fnafer%2083"]
 {
 	font-weight:bold;
 	color: #ff0000 !important; 
