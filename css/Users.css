@@ -46,6 +46,17 @@ a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"]
 }
 
 /******************************* УЧАСТНИКИ БОЛЬШЕ 2000 ПРАВОК ***************************/
+a[href$=":Fnafer_83"], a[href$="/Fnafer_83"]
+a[href$=":Fnafer%2083"], a[href$="/Fnafer%2083"],
+{
+	font-weight:bold;
+	color: #ff0000 !important; 
+	background: -webkit-linear-gradient(330deg, #ffffff, #ab0000);
+	background-image: url(https://static.wikia.nocookie.net/skibidi-tualet/images/7/75/White.gif) !important;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	text-shadow: none !important;
+}
 
 /***************************************** Админы *****************************************/
 a[href$="DeCabaddon"], a[href$="/DeCabaddon"],
