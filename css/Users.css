@@ -50,8 +50,8 @@ a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"]
 /***************************************** Админы *****************************************/
 a[href$="DeCabaddon"], a[href$="/DeCabaddon"],
 
-a[href$=":Do_You_Understando%3F"],a[href$="/Do_You_Understando%3F"],
-a[href$=":Do%20You%20Understando%3F"],a[href$="/Do%20You%20Understando%3F"]
+a[href$=":Do_You_Understando%3F"], a[href$="/Do_You_Understando%3F"],
+a[href$=":Do%20You%20Understando%3F"], a[href$="/Do%20You%20Understando%3F"]
 {
     font-weight:bold;
     color: #07fd30 !important;
