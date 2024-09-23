@@ -48,10 +48,10 @@ a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"]
 /******************************* УЧАСТНИКИ БОЛЬШЕ 2000 ПРАВОК ***************************/
 
 /***************************************** Админы *****************************************/
-a[href$=":Fnafer_83"], a[href$="/Fnafer_83"],
-a[href$=":Fnafer%2083"], a[href$="/Fnafer%2083"],
+a[href$="DeCabaddon"], a[href$="/DeCabaddon"],
 
-a[href$="DeCabaddon"], a[href$="/DeCabaddon"]
+a[href$=":Do_You_Understando%3F"],a[href$="/Do_You_Understando%3F"],
+a[href$=":Do%20You%20Understando%3F"],a[href$="/Do%20You%20Understando%3F"]
 {
     font-weight:bold;
     color: #07fd30 !important;
@@ -63,8 +63,8 @@ a[href$="DeCabaddon"], a[href$="/DeCabaddon"]
     -webkit-text-fill-color: transparent;
 }
 
-a[href$=":Fnafer%2083"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":DeCabaddon"] ~ .EntityHeader_middot__39-65:after
+a[href$=":DeCabaddon"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
 {
     content: "⭐ Администратор";
     padding: 3px;
@@ -80,9 +80,6 @@ a[href$=":DeCabaddon"] ~ .EntityHeader_middot__39-65:after
 /**************************************** Модераторы ****************************************/
 a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
 
-a[href$=":Do_You_Understando%3F"],a[href$="/Do_You_Understando%3F"],
-a[href$=":Do%20You%20Understando%3F"],a[href$="/Do%20You%20Understando%3F"],
-
 a[href$=":Vootez"], a[href$="/Vootez"],
 {
     font-weight:bold;
@@ -95,7 +92,6 @@ a[href$=":Vootez"], a[href$="/Vootez"],
 }
 
 a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after,
 a[href$=":Vootez"] ~ .EntityHeader_middot__39-65:after
 {
     content: "🔨 Модератор контента";
