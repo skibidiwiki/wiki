@@ -121,7 +121,8 @@ a[href$=":QLore2024"], a[href$="/QLore2024"],
 
 a[href$=":Sdfadasdasd"], a[href$="/Sdfadasdasd"],
 
-a[href$=":Yeah,_I%27m_Nels1k"], a[href$="/Yeah,_I%27m_Nels1k"]
+a[href$=":Yeah,_I%27m_Nels1k"], a[href$="/Yeah,_I%27m_Nels1k"],
+a[href$=":Yeah%2C%20I'm%20Nels1k"], a[href$="/Yeah%2C%20I'm%20Nels1k"]
 {
     font-weight:bold;
     color: #cd3c48 !important;
@@ -135,7 +136,7 @@ a[href$=":Yeah,_I%27m_Nels1k"], a[href$="/Yeah,_I%27m_Nels1k"]
 a[href$=":Vootez"] ~ .EntityHeader_middot__39-65:after,
 a[href$=":QLore2024"] ~ .EntityHeader_middot__39-65:after,
 a[href$=":Sdfadasdasd"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":Yeah,_I%27m_Nels1k"] ~ .EntityHeader_middot__39-65:after
+a[href$=":Yeah%2C%20I'm%20Nels1k"] ~ .EntityHeader_middot__39-65:after
 {
     content: "🧹 Откатчик";
     padding: 3px;
