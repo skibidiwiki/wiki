@@ -62,7 +62,9 @@ a[href$=":Fnafer%2083"], a[href$="/Fnafer%2083"]
 a[href$="DeCabaddon"], a[href$="/DeCabaddon"],
 
 a[href$=":Do_You_Understando%3F"], a[href$="/Do_You_Understando%3F"],
-a[href$=":Do%20You%20Understando%3F"], a[href$="/Do%20You%20Understando%3F"]
+a[href$=":Do%20You%20Understando%3F"], a[href$="/Do%20You%20Understando%3F"],
+
+a[href$="Piano1Forte2"], a[href$="/Piano1Forte2"]
 {
     font-weight:bold;
     color: #07fd30 !important;
@@ -75,7 +77,8 @@ a[href$=":Do%20You%20Understando%3F"], a[href$="/Do%20You%20Understando%3F"]
 }
 
 a[href$=":DeCabaddon"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
+a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":Piano1Forte2"] ~ .EntityHeader_middot__39-65:after
 {
     content: "⭐ Администратор";
     padding: 3px;
