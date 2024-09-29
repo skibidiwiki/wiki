@@ -91,6 +91,8 @@ a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
 /**************************************** Модераторы ****************************************/
 a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
 
+a[href$=":Piano1Forte2_Bot"], a[href$="/Piano1Forte2_Bot"],
+a[href$=":Piano1Forte2%20Bot"], a[href$="/Piano1Forte2%20Bot"]
 {
     font-weight:bold;
     color: #7f54ff !important;
@@ -101,7 +103,8 @@ a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
     -webkit-text-fill-color: transparent;
 }
 
-a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after
+a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":Piano1Forte2%20Bot"] ~ .EntityHeader_middot__39-65:after
 {
     content: "🔨 Модератор контента";
     padding: 3px;
