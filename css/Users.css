@@ -91,7 +91,6 @@ a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
 /**************************************** Модераторы ****************************************/
 a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
 
-a[href$=":Vootez"], a[href$="/Vootez"]
 {
     font-weight:bold;
     color: #7f54ff !important;
@@ -102,8 +101,7 @@ a[href$=":Vootez"], a[href$="/Vootez"]
     -webkit-text-fill-color: transparent;
 }
 
-a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":Vootez"] ~ .EntityHeader_middot__39-65:after
+a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after
 {
     content: "🔨 Модератор контента";
     padding: 3px;
@@ -117,11 +115,13 @@ a[href$=":Vootez"] ~ .EntityHeader_middot__39-65:after
 }
 
 /****************************************** Откатчики ****************************************/
-a[href$=":InvaderZimfy"], a[href$="/InvaderZimfy"],
+a[href$=":Vootez"], a[href$="/Vootez"],
 
 a[href$=":QLore2024"], a[href$="/QLore2024"],
 
-a[href$=":Sdfadasdasd"], a[href$="/Sdfadasdasd"]
+a[href$=":Sdfadasdasd"], a[href$="/Sdfadasdasd"],
+
+a[href$=":Yeah,_I%27m_Nels1k"], a[href$="/Yeah,_I%27m_Nels1k"]
 {
     font-weight:bold;
     color: #cd3c48 !important;
@@ -132,9 +132,10 @@ a[href$=":Sdfadasdasd"], a[href$="/Sdfadasdasd"]
     -webkit-text-fill-color: transparent;
 }
 
-a[href$=":InvaderZimfy"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":Vootez"] ~ .EntityHeader_middot__39-65:after,
 a[href$=":QLore2024"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":Sdfadasdasd"] ~ .EntityHeader_middot__39-65:after
+a[href$=":Sdfadasdasd"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":Yeah,_I%27m_Nels1k"] ~ .EntityHeader_middot__39-65:after
 {
     content: "🧹 Откатчик";
     padding: 3px;
